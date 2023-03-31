@@ -1,0 +1,188 @@
+
+-----
+Test: test_checkout.py::test_go_to_checkout (call)
+Start time: 2023-03-31 14:23:39.026820
+Start name method: open_url
+
+End time: 2023-03-31 14:23:40.745726
+End name method: open_url
+URL: https://www.saucedemo.com/
+
+-----
+
+-----
+Test: test_checkout.py::test_go_to_checkout (call)
+Start time: 2023-03-31 14:23:40.745726
+Start name method: authorization
+
+
+-----
+Test: test_checkout.py::test_go_to_checkout (call)
+Start time: 2023-03-31 14:23:40.746752
+Start name method: open_url
+
+End time: 2023-03-31 14:23:40.839584
+End name method: open_url
+URL: https://www.saucedemo.com/
+
+-----
+
+-----
+Test: test_checkout.py::test_go_to_checkout (call)
+Start time: 2023-03-31 14:23:41.035610
+Start name method: get_page_title
+
+End time: 2023-03-31 14:23:41.068194
+End name method: get_page_title
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+
+-----
+Test: test_checkout.py::test_go_to_checkout (call)
+Start time: 2023-03-31 14:23:41.069408
+Start name method: assert_text
+
+End time: 2023-03-31 14:23:41.078365
+End name method: assert_text
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+End time: 2023-03-31 14:23:41.081384
+End name method: authorization
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+
+-----
+Test: test_checkout.py::test_go_to_checkout (call)
+Start time: 2023-03-31 14:23:41.081384
+Start name method: select_product_and_go_to_cart
+
+
+-----
+Test: test_checkout.py::test_go_to_checkout (call)
+Start time: 2023-03-31 14:23:41.119243
+Start name method: check_exists_by_xpath
+
+End time: 2023-03-31 14:23:41.135500
+End name method: check_exists_by_xpath
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+
+-----
+Test: test_checkout.py::test_go_to_checkout (call)
+Start time: 2023-03-31 14:23:41.152570
+Start name method: assert_text
+
+End time: 2023-03-31 14:23:41.165576
+End name method: assert_text
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+
+-----
+Test: test_checkout.py::test_go_to_checkout (call)
+Start time: 2023-03-31 14:23:44.207704
+Start name method: get_page_title
+
+End time: 2023-03-31 14:23:44.229815
+End name method: get_page_title
+URL: https://www.saucedemo.com/cart.html
+
+-----
+
+-----
+Test: test_checkout.py::test_go_to_checkout (call)
+Start time: 2023-03-31 14:23:44.230841
+Start name method: assert_text
+
+End time: 2023-03-31 14:23:44.237525
+End name method: assert_text
+URL: https://www.saucedemo.com/cart.html
+
+-----
+
+-----
+Test: test_checkout.py::test_go_to_checkout (call)
+Start time: 2023-03-31 14:23:44.237525
+Start name method: assert_url
+
+End time: 2023-03-31 14:23:44.242892
+End name method: assert_url
+URL: https://www.saucedemo.com/cart.html
+
+-----
+End time: 2023-03-31 14:23:44.245676
+End name method: select_product_and_go_to_cart
+URL: https://www.saucedemo.com/cart.html
+
+-----
+
+-----
+Test: test_checkout.py::test_error_message_checkout (call)
+Start time: 2023-03-31 14:23:44.286005
+Start name method: open_url
+
+End time: 2023-03-31 14:23:44.342162
+End name method: open_url
+URL: https://www.saucedemo.com/
+
+-----
+
+-----
+Test: test_checkout.py::test_error_message_checkout (call)
+Start time: 2023-03-31 14:23:44.343163
+Start name method: authorization
+
+
+-----
+Test: test_checkout.py::test_error_message_checkout (call)
+Start time: 2023-03-31 14:23:44.343163
+Start name method: open_url
+
+End time: 2023-03-31 14:23:44.386623
+End name method: open_url
+URL: https://www.saucedemo.com/
+
+-----
+
+-----
+Test: test_checkout.py::test_error_message_checkout (call)
+Start time: 2023-03-31 14:23:44.550428
+Start name method: get_page_title
+
+End time: 2023-03-31 14:23:44.592259
+End name method: get_page_title
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+
+-----
+Test: test_checkout.py::test_error_message_checkout (call)
+Start time: 2023-03-31 14:23:44.593282
+Start name method: assert_text
+
+End time: 2023-03-31 14:23:44.600020
+End name method: assert_text
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+End time: 2023-03-31 14:23:44.603273
+End name method: authorization
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+
+-----
+Test: test_checkout.py::test_error_message_checkout (call)
+Start time: 2023-03-31 14:23:44.604394
+Start name method: select_product_and_go_to_cart
+
+
+-----
+Test: test_checkout.py::test_error_message_checkout (call)
+Start time: 2023-03-31 14:23:44.630581
+Start name method: check_exists_by_xpath
+

@@ -22,6 +22,8 @@ class CheckoutPage(Base):
     continue_button = '//input[@id="continue"]'
     cancel_button = '//button[@id="cancel"]'
 
+    error = '//h3[@data-test="error"]'
+
     # Getters
 
     def get_first_name(self):
@@ -43,6 +45,10 @@ class CheckoutPage(Base):
     def get_cancel_button(self):
         return WebDriverWait(self.driver, 30).until(
             EC.element_to_be_clickable((By.XPATH, self.cancel_button)))
+
+    def get_error_message(self):
+        return WebDriverWait(self.driver, 30).until(
+            EC.element_to_be_clickable((By.XPATH, self.error)))
 
     # Actions
 
@@ -98,6 +104,38 @@ class CheckoutPage(Base):
             self.assert_text(self.get_page_title(), 'Your Cart')
             Logger.add_end_step(url=self.get_current_url(), method='cancel_checkout_empty')
 
+    def check_no_firstname_checkout(self):
+        with allure.step("Check error message 'Error: First Name is required'"):
+            Logger.add_start_step(method='check_no_firstname_checkout')
+            self.click_continue_button()
+            self.assert_url('https://www.saucedemo.com/checkout-step-one.html')
+            self.assert_text(self.get_error_message(), 'Error: First Name is required')
+            self.input_last_name('LastName')
+            self.input_postal_code('111111')
+            self.click_continue_button()
+            self.assert_url('https://www.saucedemo.com/checkout-step-one.html')
+            self.assert_text(self.get_error_message(), 'Error: First Name is required')
+            Logger.add_end_step(url=self.get_current_url(), method='check_no_firstname_checkout')
+
+    def check_no_lastname_checkout(self):
+        with allure.step("Check error message 'Error: Last Name is required'"):
+            Logger.add_start_step(method='check_no_lastname_checkout')
+            self.input_first_name('FirstName')
+            self.input_postal_code('111111')
+            self.click_continue_button()
+            self.assert_url('https://www.saucedemo.com/checkout-step-one.html')
+            self.assert_text(self.get_error_message(), 'Error: Last Name is required')
+            Logger.add_end_step(url=self.get_current_url(), method='check_no_lastname_checkout')
+
+    def check_no_postalcode_checkout(self):
+        with allure.step("Check error message 'Error: Postal Code is required'"):
+            Logger.add_start_step(method='check_no_postalcode_checkout')
+            self.input_first_name('FirstName')
+            self.input_last_name('LastName')
+            self.click_continue_button()
+            self.assert_url('https://www.saucedemo.com/checkout-step-one.html')
+            self.assert_text(self.get_error_message(), 'Error: Postal Code is required')
+            Logger.add_end_step(url=self.get_current_url(), method='check_no_postalcode_checkout')
 
 
 
