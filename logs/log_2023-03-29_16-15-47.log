@@ -1,0 +1,5646 @@
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:49.049001
+Start name method: authorization
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:49.051360
+Start name method: open_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.704707
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.707722
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.711410
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.713465
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.716020
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.719154
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.721178
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.723382
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.725719
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.728010
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.730019
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.732030
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.734044
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.738427
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.741549
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.743627
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.747130
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.749810
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.751906
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.754936
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.757149
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.759169
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.761328
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.763337
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.766712
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.768720
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.770729
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.773820
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.775829
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.778156
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.780277
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.782547
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.784999
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.788041
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.790050
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.793244
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.796093
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.799404
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.801624
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.804656
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.807156
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.810170
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.812176
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.814251
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.817269
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.819422
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.821435
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.824445
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.826457
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.828464
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.830650
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.833670
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.835916
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.838148
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.840329
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.842641
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.845692
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.849297
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.851693
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.853872
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.857839
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.859856
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.862629
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.866052
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.868411
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.871175
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.874300
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.876406
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.879905
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.881978
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.885033
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.888049
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.890154
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.893269
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.896286
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.898399
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.902059
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.905166
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.907606
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.910911
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.913932
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.916949
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.919480
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.923239
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.927102
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.930164
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.933182
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.936306
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.938444
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.940601
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.944061
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.946309
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.949687
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.951703
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.955298
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.956660
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.959995
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.962800
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.965816
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.967842
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.970404
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.973754
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.976769
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.979029
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.981909
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.985258
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.987657
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.990938
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.993853
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.996705
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:50.999863
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.003083
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.006097
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.009133
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.012319
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.014364
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.017827
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.019849
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.023348
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.025698
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.028800
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.031922
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.034262
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.037628
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.041080
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.043701
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.047073
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.050380
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.053388
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.056405
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.059433
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.062890
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.064963
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.067977
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.070994
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.074400
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.078011
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.081181
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.084186
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.086985
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.090161
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.093188
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.096479
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.098958
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.102099
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.105270
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.108550
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.110968
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.113998
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.117006
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.120162
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.122604
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.125848
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.129261
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.131743
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.134994
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.138320
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.141365
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.144376
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.147720
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.150733
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.153868
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.156815
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.159826
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.163432
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.166443
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.169595
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.172654
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.175713
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.178741
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.181790
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.184896
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.188457
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.191878
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.194900
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.198105
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.200231
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.204153
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.207187
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.210367
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.213384
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.217384
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.220091
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.224338
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.227665
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.231030
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.234038
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.237206
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.240519
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.243556
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.246686
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.249795
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.252917
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.255953
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.259284
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.262834
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.265858
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.268890
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.271857
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.274714
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.278157
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.281591
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.284639
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.287752
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.290898
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.294922
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.298090
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.301104
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.304117
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.307518
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.310700
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.313730
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.316781
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.319837
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.323054
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.326351
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.329373
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.332529
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.335583
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.338899
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.342289
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.345781
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.348806
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.352254
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.355289
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.358319
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.361418
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.364984
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.368017
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.371103
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.374228
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.377242
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.380251
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.383463
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.386929
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.389991
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.393180
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.396715
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.399739
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.403165
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.406478
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.409750
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.413040
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.416239
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.419453
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.422905
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.426949
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.430298
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.433533
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.437898
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.440969
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.444367
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.447523
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.450540
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.453982
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.457012
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.460430
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.464200
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.467240
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.470410
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.473424
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.477705
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.480718
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.483729
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.487911
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.491110
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.494284
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.497723
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.501204
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.504263
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.507674
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.511154
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.514294
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.517429
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.520663
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.524691
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.527702
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.530714
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.534781
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.537321
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.540697
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.544546
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.547562
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.551465
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.554826
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.558071
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.561360
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.564876
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.568021
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.571203
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.574581
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.578482
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.581548
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.585035
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.588048
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.592068
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.595085
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.598372
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.602423
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.605434
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.608656
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.612375
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.616424
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.619429
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.622773
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.627106
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.639455
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.643481
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.647466
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.650470
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.654121
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.657124
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.660192
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.664212
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.667272
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.670296
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.674599
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.677615
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.680670
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.684152
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.687391
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.691429
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.694433
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.698448
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.701543
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.704571
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.708600
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.711107
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.714120
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.717120
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.721340
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.723920
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.726933
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.731031
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.734058
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.737032
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.740044
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.744062
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.747090
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.750115
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.753660
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.756662
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.759662
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.763461
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.766491
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.770182
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.773193
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.776672
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.779927
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.783253
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.786471
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.789805
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.793261
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.796911
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.800919
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.803962
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.806985
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.810695
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.813709
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.817606
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.820999
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.824407
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.828428
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.831629
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.834774
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.837799
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.841850
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.844865
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.849091
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.853330
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.856220
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.859238
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.862240
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.866762
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.870795
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.873273
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.876692
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.880997
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.884020
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.887030
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.890077
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.894468
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.897552
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.900716
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.903964
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.907763
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.910778
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.914413
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.918754
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.921794
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.925172
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.928198
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.932210
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.935225
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.939488
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.943286
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.947361
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.950371
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.953901
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.957852
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.960978
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.964041
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.967406
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.971982
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.975011
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.979385
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.982391
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.985539
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.990249
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.993278
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.996314
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:51.999364
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.003409
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.007773
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.010783
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.015029
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.018359
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.021693
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.025004
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.028425
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.031802
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.035233
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.039227
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.043249
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.047794
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.050914
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.054940
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.058957
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.062415
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.065983
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.069005
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.073097
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.077116
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.080271
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.083701
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.087284
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.090907
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.095112
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.099415
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.103819
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.106845
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.111991
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.116017
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.119227
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.123438
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.126546
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.130682
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.134006
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.138038
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.141072
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.144567
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.147577
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.151216
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.156099
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.159369
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.162384
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.166841
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.172318
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.175841
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.182115
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.189103
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.193158
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.196628
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.200988
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.205589
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.209334
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.213620
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.218885
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.221390
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.226321
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.231016
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.235697
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.240385
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.244140
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.247197
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.250482
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.254989
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.258660
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.262196
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.267017
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.270570
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.273936
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.278234
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.281981
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.286112
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.289139
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.292650
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.297245
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.301684
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.305080
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.308446
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.311936
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.315241
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.319440
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.322889
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.326074
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.330095
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.333122
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.336617
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.339822
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.344013
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.347240
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.350735
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.353837
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.358137
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.361174
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.364716
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.368979
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.372192
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.375219
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.379475
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.382476
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.385967
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.388968
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.393176
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.396542
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.399560
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.404008
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.407137
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.410137
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.414138
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.417139
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.421140
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.424140
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.427141
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.431142
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.434160
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.438194
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.441194
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.444861
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.448202
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.452474
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.456087
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.459180
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.462891
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.465903
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.470022
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.473142
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.477200
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.480393
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.485641
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.489042
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.492535
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.496975
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.500012
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.504058
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.508069
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.511069
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.514446
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.518080
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.521986
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.525453
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.529731
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.532740
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.536015
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.539503
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.543394
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.546837
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.550453
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.553735
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.558042
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.562076
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.565086
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.569101
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.572255
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.575629
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.579738
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.582790
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.585830
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.589350
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.593791
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.596854
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.600855
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.605109
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.609118
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.612563
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.616278
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.619279
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.623031
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.626812
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.630898
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.636344
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.640082
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.643189
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.646748
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.650141
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.653419
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.656434
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.660890
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.663914
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.667616
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.670965
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.674236
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.678263
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.681448
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.685012
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.689034
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.692051
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.696323
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.700561
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.705805
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.709941
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.713328
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.716790
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.720905
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.725013
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.729172
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.733190
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.736289
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.740329
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.743811
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.747972
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.750982
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.754177
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.757442
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.761827
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.764950
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.768180
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.771687
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.777063
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.781132
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.784174
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.787193
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.790897
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.794937
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.798018
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.801535
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.804751
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.808975
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.812514
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.816907
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.822541
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.825957
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.830099
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.833140
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.836989
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.840990
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.844991
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.847992
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.851993
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.855994
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.858995
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.861995
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.865499
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.869500
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.872501
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.876501
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.879502
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.882503
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.885503
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.889505
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.892505
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.896506
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.899507
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.903507
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.906508
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.909509
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.913510
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.917511
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.922512
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.926734
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.930199
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.934230
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.937367
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.941131
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.945204
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.949243
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.952394
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.956061
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.960503
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.964142
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.967186
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.970196
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.974585
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.977689
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.981096
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.985162
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.988195
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.992211
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.995564
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:52.998952
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.002605
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.005692
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.009774
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.012916
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.016436
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.020091
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.023412
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.026932
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.029991
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.033558
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.037638
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.041103
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.044621
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.048645
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.052858
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.055876
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.059370
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.062574
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.066161
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.070239
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.073674
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.077058
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.080162
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.084064
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.088374
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.091421
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.095481
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.098716
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.102739
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.105749
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.109177
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.112533
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.115551
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.119167
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.122395
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.125707
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.128988
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.133166
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.136178
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.139493
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.142992
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.146490
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.149705
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.153255
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.156614
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.160068
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.163261
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.166776
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.169812
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.173547
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.177426
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.188885
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.191834
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.195298
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.198634
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.202126
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.205670
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.209839
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.212854
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.215918
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.220267
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.223352
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.226746
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.230278
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.233559
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.236880
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.240273
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.243291
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.247306
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.250382
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.253560
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.256595
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.260509
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.264266
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.267318
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.270659
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.273670
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.277916
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.280978
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.283989
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.287480
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.290732
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.294142
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.297990
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.300999
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.304371
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.307480
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.311183
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.314185
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.318186
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.321186
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.324187
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.328399
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.331837
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.334851
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.338432
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.341887
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.345973
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.349118
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.352640
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.356065
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.359968
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.363007
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.366894
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.370385
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.373637
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.377921
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.380985
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.384457
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.387471
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.391733
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.394737
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.397769
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.400885
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.404670
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.408186
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.412299
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.415726
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.418727
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.423843
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.426861
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.430862
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.433863
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.437126
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.440796
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.444215
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.448358
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.451557
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.454822
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.458203
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.461780
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.465598
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.468716
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.472162
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.475537
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.478985
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.482421
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.485530
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.489586
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.492589
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.496455
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.500006
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.503709
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.507060
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.510634
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.513963
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.517538
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.521660
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.524957
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.528063
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.531276
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.534453
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.537961
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.541302
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.544651
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.549122
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.553661
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.557775
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.560860
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.564379
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.568423
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.571503
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.575753
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.578781
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.582038
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.586039
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.589039
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.592535
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.595930
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.599778
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.603779
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.606780
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.609780
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.612812
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.616790
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.620404
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.624241
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.627245
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.631035
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.634168
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.637391
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.641392
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.644984
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.648007
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.658619
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.663355
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.667339
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.670358
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.673369
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.676446
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.680661
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.682696
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.687178
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.690596
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.694085
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.697478
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.700496
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.703903
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.707530
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.710770
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.714808
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.717826
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.721248
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.725263
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.728393
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.731725
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.735726
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.738727
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.741759
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.745084
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.749230
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.753020
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.756027
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.759229
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.762452
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.765949
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.769442
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.772983
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.777089
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.780213
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.783418
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.787677
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.790779
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.794069
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.798153
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.801316
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.804741
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.808150
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.811163
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.815194
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.820197
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.824198
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.828530
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.831735
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.834762
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.838666
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.842740
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.846086
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.849278
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.853837
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.856239
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.860332
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.863332
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.865838
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.870402
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.873627
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.877116
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.880153
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.884369
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.887660
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.890661
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.894662
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.897662
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.900663
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.903664
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.907665
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.910665
+Start name method: get_current_url
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:15:53.913666
+Start name method: get_current_url
+

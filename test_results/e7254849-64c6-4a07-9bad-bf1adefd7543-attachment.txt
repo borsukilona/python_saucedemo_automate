@@ -1,0 +1,22 @@
+Start test
+Current URL: https://www.saucedemo.com/
+Current URL: https://www.saucedemo.com/
+Input login: standard_user
+Input password: secret_sauce
+Click login button
+Current page title: 'Products'
+Current URL: https://www.saucedemo.com/inventory.html
+Text result: 'Products' --- PASSED
+Current URL: https://www.saucedemo.com/inventory.html
+Current URL: https://www.saucedemo.com/inventory.html
+Add product N1 to the cart - clicked
+Add product N2 to the cart - clicked
+Add product N3 to the cart - clicked
+Element exists - TRUE
+Current URL: https://www.saucedemo.com/inventory.html
+Text result: '3' --- PASSED
+Current URL: https://www.saucedemo.com/inventory.html
+Current URL: https://www.saucedemo.com/inventory.html
+Menu clicked
+'Reset App State' clicked
+No such element on the page - Timeout Exception

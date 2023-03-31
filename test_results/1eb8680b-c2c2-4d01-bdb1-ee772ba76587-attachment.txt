@@ -1,0 +1,12 @@
+Start test
+Current URL: https://www.saucedemo.com/
+Input login: standard_user
+Input password: secret_sauce
+Click login button
+Current page title: 'Products'
+Text result: 'Products' --- PASSED
+Current URL: https://www.saucedemo.com/inventory.html
+Menu clicked
+'About' clicked
+Current URL result: 'https://saucelabs.com/' --- PASSED
+Finish test

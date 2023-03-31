@@ -1,0 +1,95 @@
+
+-----
+Test: tests/test_menu_links.py::test_link_reset (call)
+Start time: 2023-03-29 16:17:39.907845
+Start name method: authorization
+
+
+-----
+Test: tests/test_menu_links.py::test_link_reset (call)
+Start time: 2023-03-29 16:17:39.908848
+Start name method: open_url
+
+End time: 2023-03-29 16:17:41.499567
+End name method: open_url
+URL: https://www.saucedemo.com/
+
+-----
+
+-----
+Test: tests/test_menu_links.py::test_link_reset (call)
+Start time: 2023-03-29 16:17:41.690723
+Start name method: get_page_title
+
+End time: 2023-03-29 16:17:41.721033
+End name method: get_page_title
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+
+-----
+Test: tests/test_menu_links.py::test_link_reset (call)
+Start time: 2023-03-29 16:17:41.722033
+Start name method: assert_text
+
+End time: 2023-03-29 16:17:41.735064
+End name method: assert_text
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+End time: 2023-03-29 16:17:41.737067
+End name method: authorization
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+
+-----
+Test: tests/test_menu_links.py::test_link_reset (call)
+Start time: 2023-03-29 16:17:41.737067
+Start name method: select_products
+
+
+-----
+Test: tests/test_menu_links.py::test_link_reset (call)
+Start time: 2023-03-29 16:17:41.829878
+Start name method: check_exists_by_xpath
+
+End time: 2023-03-29 16:17:41.847378
+End name method: check_exists_by_xpath
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+
+-----
+Test: tests/test_menu_links.py::test_link_reset (call)
+Start time: 2023-03-29 16:17:41.861712
+Start name method: assert_text
+
+End time: 2023-03-29 16:17:41.872851
+End name method: assert_text
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+End time: 2023-03-29 16:17:41.875394
+End name method: select_products
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+
+-----
+Test: tests/test_menu_links.py::test_link_reset (call)
+Start time: 2023-03-29 16:17:41.876409
+Start name method: choose_reset
+
+
+-----
+Test: tests/test_menu_links.py::test_link_reset (call)
+Start time: 2023-03-29 16:17:42.462082
+Start name method: check_exists_by_xpath
+
+
+-----
+Test: tests/test_menu_links.py::test_link_reset (call)
+Start time: 2023-03-29 16:18:12.834177
+Start name method: assert_text
+

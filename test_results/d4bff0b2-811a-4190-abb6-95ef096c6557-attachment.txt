@@ -1,0 +1,53 @@
+Start test
+Current URL: https://www.saucedemo.com/
+Input login: standard_user
+Input password: secret_sauce
+Click login button
+Current URL: https://www.saucedemo.com/inventory.html
+Login with standard_user
+Current URL: https://www.saucedemo.com/inventory.html
+URL after authorization try: https://www.saucedemo.com/inventory.html
+Current URL: https://www.saucedemo.com/inventory.html
+Menu clicked
+'Logout' clicked
+Current URL result: 'https://www.saucedemo.com/' --- PASSED
+Logout with standard_user
+Current URL: https://www.saucedemo.com/
+Input login: locked_out_user
+Input password: secret_sauce
+Click login button
+Current URL: https://www.saucedemo.com/
+Login with locked_out_user
+Current URL: https://www.saucedemo.com/
+URL after authorization try: https://www.saucedemo.com/
+Current URL: https://www.saucedemo.com/
+Text result: 'Epic sadface: Sorry, this user has been locked out.' --- PASSED
+Warning message "Epic sadface: Sorry, this user has been locked out." displayed
+Current URL: https://www.saucedemo.com/
+Input login: problem_user
+Input password: secret_sauce
+Click login button
+Current URL: https://www.saucedemo.com/inventory.html
+Login with problem_user
+Current URL: https://www.saucedemo.com/inventory.html
+URL after authorization try: https://www.saucedemo.com/inventory.html
+Current URL: https://www.saucedemo.com/inventory.html
+Menu clicked
+'Logout' clicked
+Current URL result: 'https://www.saucedemo.com/' --- PASSED
+Logout with problem_user
+Current URL: https://www.saucedemo.com/
+Input login: performance_glitch_user
+Input password: secret_sauce
+Click login button
+Current URL: https://www.saucedemo.com/inventory.html
+Login with performance_glitch_user
+Current URL: https://www.saucedemo.com/inventory.html
+URL after authorization try: https://www.saucedemo.com/inventory.html
+Current URL: https://www.saucedemo.com/inventory.html
+Menu clicked
+'Logout' clicked
+Current URL result: 'https://www.saucedemo.com/' --- PASSED
+Logout with performance_glitch_user
+Current URL: https://www.saucedemo.com/
+Finish test

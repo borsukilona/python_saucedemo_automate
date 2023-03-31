@@ -1,0 +1,27 @@
+Start test
+Current URL: https://www.saucedemo.com/
+Input login: wrong_username
+Input password: secret_sauce
+Click login button
+Text result: 'Epic sadface: Username and password do not match any user in this service' --- PASSED
+Input login: standard_us
+Input password: wrong_password
+Click login button
+Text result: 'Epic sadface: Username and password do not match any user in this service' --- PASSED
+Current URL: https://www.saucedemo.com/
+Input login: standard_user
+Input password: 
+Click login button
+Text result: 'Epic sadface: Password is required' --- PASSED
+Current URL: https://www.saucedemo.com/
+Input login: 
+Input password: secret_sauce
+Click login button
+Text result: 'Epic sadface: Username is required' --- PASSED
+Current URL: https://www.saucedemo.com/
+Input login: locked_out_user
+Input password: secret_sauce
+Click login button
+Text result: 'Epic sadface: Sorry, this user has been locked out.' --- PASSED
+Current URL: https://www.saucedemo.com/
+Finish test

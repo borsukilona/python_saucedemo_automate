@@ -1,0 +1,359 @@
+
+-----
+Test: tests/test_menu_links.py::test_link_about (call)
+Start time: 2023-03-31 13:40:24.960939
+Start name method: authorization
+
+
+-----
+Test: tests/test_menu_links.py::test_link_about (call)
+Start time: 2023-03-31 13:40:24.961943
+Start name method: open_url
+
+End time: 2023-03-31 13:40:26.879786
+End name method: open_url
+URL: https://www.saucedemo.com/
+
+-----
+
+-----
+Test: tests/test_menu_links.py::test_link_about (call)
+Start time: 2023-03-31 13:40:27.069179
+Start name method: get_page_title
+
+End time: 2023-03-31 13:40:27.095629
+End name method: get_page_title
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+
+-----
+Test: tests/test_menu_links.py::test_link_about (call)
+Start time: 2023-03-31 13:40:27.096698
+Start name method: assert_text
+
+End time: 2023-03-31 13:40:27.105757
+End name method: assert_text
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+End time: 2023-03-31 13:40:27.109231
+End name method: authorization
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+
+-----
+Test: tests/test_menu_links.py::test_link_about (call)
+Start time: 2023-03-31 13:40:27.109231
+Start name method: choose_about
+
+
+-----
+Test: tests/test_menu_links.py::test_link_about (call)
+Start time: 2023-03-31 13:40:31.198839
+Start name method: assert_url
+
+End time: 2023-03-31 13:40:31.236462
+End name method: assert_url
+URL: https://saucelabs.com/
+
+-----
+End time: 2023-03-31 13:40:31.238723
+End name method: choose_about
+URL: https://saucelabs.com/
+
+-----
+
+-----
+Test: tests/test_menu_links.py::test_link_logout (call)
+Start time: 2023-03-31 13:40:34.532501
+Start name method: authorization
+
+
+-----
+Test: tests/test_menu_links.py::test_link_logout (call)
+Start time: 2023-03-31 13:40:34.533506
+Start name method: open_url
+
+End time: 2023-03-31 13:40:36.152162
+End name method: open_url
+URL: https://www.saucedemo.com/
+
+-----
+
+-----
+Test: tests/test_menu_links.py::test_link_logout (call)
+Start time: 2023-03-31 13:40:36.358496
+Start name method: get_page_title
+
+End time: 2023-03-31 13:40:36.386182
+End name method: get_page_title
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+
+-----
+Test: tests/test_menu_links.py::test_link_logout (call)
+Start time: 2023-03-31 13:40:36.387188
+Start name method: assert_text
+
+End time: 2023-03-31 13:40:36.398967
+End name method: assert_text
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+End time: 2023-03-31 13:40:36.402344
+End name method: authorization
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+
+-----
+Test: tests/test_menu_links.py::test_link_logout (call)
+Start time: 2023-03-31 13:40:36.403352
+Start name method: logout
+
+
+-----
+Test: tests/test_menu_links.py::test_link_logout (call)
+Start time: 2023-03-31 13:40:37.002960
+Start name method: assert_url
+
+End time: 2023-03-31 13:40:37.007675
+End name method: assert_url
+URL: https://www.saucedemo.com/
+
+-----
+End time: 2023-03-31 13:40:37.009883
+End name method: logout
+URL: https://www.saucedemo.com/
+
+-----
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-31 13:40:40.258125
+Start name method: authorization
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-31 13:40:40.259138
+Start name method: open_url
+
+End time: 2023-03-31 13:40:41.884027
+End name method: open_url
+URL: https://www.saucedemo.com/
+
+-----
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-31 13:40:42.084916
+Start name method: get_page_title
+
+End time: 2023-03-31 13:40:42.119896
+End name method: get_page_title
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-31 13:40:42.121896
+Start name method: assert_text
+
+End time: 2023-03-31 13:40:42.131570
+End name method: assert_text
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+End time: 2023-03-31 13:40:42.134923
+End name method: authorization
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-31 13:40:42.136072
+Start name method: select_product_and_go_to_cart
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-31 13:40:42.169949
+Start name method: check_exists_by_xpath
+
+End time: 2023-03-31 13:40:42.191157
+End name method: check_exists_by_xpath
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-31 13:40:42.207882
+Start name method: assert_text
+
+End time: 2023-03-31 13:40:42.219719
+End name method: assert_text
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-31 13:40:45.276763
+Start name method: get_page_title
+
+End time: 2023-03-31 13:40:45.304637
+End name method: get_page_title
+URL: https://www.saucedemo.com/cart.html
+
+-----
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-31 13:40:45.305641
+Start name method: assert_text
+
+End time: 2023-03-31 13:40:45.311666
+End name method: assert_text
+URL: https://www.saucedemo.com/cart.html
+
+-----
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-31 13:40:45.312962
+Start name method: assert_url
+
+End time: 2023-03-31 13:40:45.316995
+End name method: assert_url
+URL: https://www.saucedemo.com/cart.html
+
+-----
+End time: 2023-03-31 13:40:45.320012
+End name method: select_product_and_go_to_cart
+URL: https://www.saucedemo.com/cart.html
+
+-----
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-31 13:40:45.320012
+Start name method: choose_all_items
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-31 13:40:45.915747
+Start name method: assert_url
+
+End time: 2023-03-31 13:40:45.921000
+End name method: assert_url
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+End time: 2023-03-31 13:40:45.923808
+End name method: choose_all_items
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+
+-----
+Test: tests/test_menu_links.py::test_link_reset (call)
+Start time: 2023-03-31 13:40:49.052413
+Start name method: authorization
+
+
+-----
+Test: tests/test_menu_links.py::test_link_reset (call)
+Start time: 2023-03-31 13:40:49.053452
+Start name method: open_url
+
+End time: 2023-03-31 13:40:50.788602
+End name method: open_url
+URL: https://www.saucedemo.com/
+
+-----
+
+-----
+Test: tests/test_menu_links.py::test_link_reset (call)
+Start time: 2023-03-31 13:40:50.971288
+Start name method: get_page_title
+
+End time: 2023-03-31 13:40:51.003291
+End name method: get_page_title
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+
+-----
+Test: tests/test_menu_links.py::test_link_reset (call)
+Start time: 2023-03-31 13:40:51.004418
+Start name method: assert_text
+
+End time: 2023-03-31 13:40:51.013659
+End name method: assert_text
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+End time: 2023-03-31 13:40:51.016817
+End name method: authorization
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+
+-----
+Test: tests/test_menu_links.py::test_link_reset (call)
+Start time: 2023-03-31 13:40:51.016817
+Start name method: select_products
+
+
+-----
+Test: tests/test_menu_links.py::test_link_reset (call)
+Start time: 2023-03-31 13:40:51.100449
+Start name method: check_exists_by_xpath
+
+End time: 2023-03-31 13:40:51.117123
+End name method: check_exists_by_xpath
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+
+-----
+Test: tests/test_menu_links.py::test_link_reset (call)
+Start time: 2023-03-31 13:40:51.129804
+Start name method: assert_text
+
+End time: 2023-03-31 13:40:51.142011
+End name method: assert_text
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+End time: 2023-03-31 13:40:51.145186
+End name method: select_products
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+
+-----
+Test: tests/test_menu_links.py::test_link_reset (call)
+Start time: 2023-03-31 13:40:51.146190
+Start name method: choose_reset
+
+
+-----
+Test: tests/test_menu_links.py::test_link_reset (call)
+Start time: 2023-03-31 13:40:51.731748
+Start name method: check_exists_by_xpath
+
+
+-----
+Test: tests/test_menu_links.py::test_link_reset (call)
+Start time: 2023-03-31 13:41:22.075604
+Start name method: assert_text
+

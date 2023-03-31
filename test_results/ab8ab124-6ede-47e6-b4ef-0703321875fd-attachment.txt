@@ -1,0 +1,30 @@
+Start test
+Current URL: https://www.saucedemo.com/
+Current URL: https://www.saucedemo.com/
+Input login: standard_user
+Input password: secret_sauce
+Click login button
+Current page title: 'Products'
+Current URL: https://www.saucedemo.com/inventory.html
+Text result: 'Products' --- PASSED
+Current URL: https://www.saucedemo.com/inventory.html
+Current URL: https://www.saucedemo.com/inventory.html
+Current URL: https://www.saucedemo.com/inventory.html
+Add product N1 to the cart - clicked
+Element exists - TRUE
+Current URL: https://www.saucedemo.com/inventory.html
+Text result: '1' --- PASSED
+Current URL: https://www.saucedemo.com/inventory.html
+Cart clicked = entered
+Current page title: 'Your Cart'
+Current URL: https://www.saucedemo.com/cart.html
+Text result: 'Your Cart' --- PASSED
+Current URL: https://www.saucedemo.com/cart.html
+Current URL result: 'https://www.saucedemo.com/cart.html' --- PASSED
+Current URL: https://www.saucedemo.com/cart.html
+Current URL: https://www.saucedemo.com/cart.html
+Menu clicked
+'All Items' clicked
+Current URL result: 'https://www.saucedemo.com/inventory.html' --- PASSED
+Current URL: https://www.saucedemo.com/inventory.html
+Current URL: https://www.saucedemo.com/inventory.html

@@ -1,0 +1,6756 @@
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:10.335675
+Start name method: authorization
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:10.335675
+Start name method: open_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:11.925467
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:11.929358
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:11.931756
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:11.933819
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:11.937084
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:11.939408
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:11.942313
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:11.946406
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:11.950411
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:11.952411
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:11.956055
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:11.958080
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:11.960151
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:11.962185
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:11.964195
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:11.967359
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:11.969787
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:11.972852
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:11.974861
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:11.976922
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:11.979933
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:11.981940
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:11.984357
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:11.986788
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:11.988921
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:11.990954
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:11.992960
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:11.995956
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:11.998475
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.000982
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.004335
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.006344
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.009360
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.012377
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.014767
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.016883
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.019002
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.022115
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.024625
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.026828
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.029271
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.031276
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.034301
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.036305
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.038309
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.041835
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.045318
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.047719
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.051113
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.053242
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.055295
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.058092
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.061158
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.063384
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.065416
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.068440
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.070447
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.073263
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.075574
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.078777
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.081090
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.083116
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.086134
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.089372
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.091735
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.093920
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.097781
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.101292
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.104507
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.106520
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.109980
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.112995
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.114999
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.119033
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.121959
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.124199
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.127695
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.130785
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.132791
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.135798
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.138915
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.140918
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.143332
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.147417
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.149971
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.153074
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.155194
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.158628
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.161679
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.164021
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.167113
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.169187
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.172381
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.175394
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.178404
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.180421
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.183427
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.186533
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.188539
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.191551
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.194571
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.197137
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.200142
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.203224
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.205730
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.208399
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.210975
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.213977
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.216978
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.219979
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.222510
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.225527
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.228365
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.230465
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.233807
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.236816
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.238828
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.242186
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.245276
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.247345
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.251081
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.253084
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.256499
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.259553
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.262595
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.265629
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.268636
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.271654
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.274667
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.277681
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.280973
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.283988
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.286519
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.289335
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.293059
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.296058
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.299059
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.301565
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.305287
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.308288
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.309913
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.313404
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.316726
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.319343
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.322352
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.326264
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.328655
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.332228
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.335237
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.337918
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.341037
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.344059
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.347138
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.349885
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.352968
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.356008
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.359026
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.362037
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.365044
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.368054
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.371078
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.374095
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.377153
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.380160
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.383160
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.385161
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.388690
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.391590
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.394553
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.397560
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.401089
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.404693
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.407701
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.410710
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.413718
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.415746
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.420094
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.423106
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.425622
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.429071
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.432110
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.435748
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.439765
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.442775
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.445783
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.448850
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.451859
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.455443
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.458463
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.461470
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.465513
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.468523
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.471533
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.474758
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.477761
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.481387
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.484390
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.487997
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.491474
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.494796
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.497836
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.501352
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.504365
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.507627
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.510945
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.514489
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.517580
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.521172
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.524188
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.527507
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.531556
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.534565
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.538581
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.542087
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.545100
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.548109
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.552120
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.555121
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.558659
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.561659
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.564661
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.567662
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.570717
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.574650
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.578651
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.581652
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.584652
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.587685
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.591054
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.594666
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.597677
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.600501
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.604705
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.607718
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.610727
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.614739
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.617999
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.621001
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.624576
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.627577
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.630581
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.634144
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.638016
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.653032
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.657466
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.660468
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.664036
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.667037
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.671038
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.674039
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.677039
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.680630
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.683873
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.686878
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.689878
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.694296
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.697312
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.700822
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.704479
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.707513
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.710587
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.713598
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.716608
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.719624
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.724045
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.726851
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.731033
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.734040
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.738042
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.740424
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.744232
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.747796
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.750816
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.754516
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.765552
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.769587
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.772628
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.775642
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.779670
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.782678
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.787042
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.789420
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.792226
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.795750
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.798738
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.802700
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.805741
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.808750
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.812774
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.816073
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.819740
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.823149
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.827197
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.830506
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.834105
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.838125
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.841132
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.844140
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.848207
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.851308
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.854324
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.857707
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.861757
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.864294
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.868043
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.872069
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.875082
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.879202
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.882240
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.886268
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.889281
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.893289
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.896329
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.898843
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.903348
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.906351
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.910363
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.914567
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.917079
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.921093
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.923635
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.927389
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.930653
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.933656
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.937661
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.940702
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.943768
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.947099
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.950109
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.954127
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.957455
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.961455
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.964456
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.967530
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.970533
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.974474
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.978203
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.981216
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.984227
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.987641
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.991195
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.994206
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:12.997215
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.000221
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.005024
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.008565
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.011791
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.015392
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.018394
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.021909
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.024986
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.028832
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.032259
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.035279
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.039907
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.042956
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.046222
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.049462
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.052604
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.056365
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.059600
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.063205
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.066240
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.069630
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.072639
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.076653
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.079804
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.082810
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.085987
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.089998
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.093004
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.096297
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.099798
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.103341
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.106353
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.109400
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.112416
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.116432
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.119439
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.122451
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.126508
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.129525
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.132795
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.135798
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.139798
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.142830
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.146839
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.149845
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.153087
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.156952
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.159460
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.163871
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.166379
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.170393
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.173409
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.176910
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.180018
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.183025
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.186319
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.190251
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.193262
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.197277
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.200278
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.204106
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.207121
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.211306
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.214322
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.217349
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.221288
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.224301
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.227310
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.231321
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.234344
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.237914
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.240926
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.245177
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.248186
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.251924
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.254931
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.258536
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.262112
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.265113
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.268785
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.272337
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.275355
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.279174
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.282374
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.286158
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.290184
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.293193
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.296497
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.299076
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.303225
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.306419
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.309827
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.314145
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.319228
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.323251
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.326775
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.330362
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.333382
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.337663
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.341898
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.345177
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.349005
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.352018
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.355026
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.358074
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.362386
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.365404
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.368418
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.372430
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.375883
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.378952
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.382187
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.385278
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.388291
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.392343
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.395706
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.399038
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.402563
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.405860
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.409891
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.412394
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.418308
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.422516
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.425543
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.432677
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.438257
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.441288
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.444799
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.448255
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.452083
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.455170
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.459175
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.462273
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.466491
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.470695
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.475099
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.478368
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.482909
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.486517
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.489938
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.493430
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.497541
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.500777
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.504648
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.507935
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.510947
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.515645
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.518937
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.522356
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.526500
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.529933
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.532947
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.536480
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.540523
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.543789
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.547409
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.550755
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.553790
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.557646
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.561070
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.564367
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.567819
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.570966
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.574458
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.577701
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.580975
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.584324
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.587327
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.591479
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.594888
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.598045
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.601596
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.604621
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.608163
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.611209
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.615249
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.618285
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.621313
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.625585
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.628597
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.632633
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.635634
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.639635
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.642636
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.645636
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.649637
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.652638
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.656638
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.659639
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.663640
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.666641
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.669822
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.674045
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.677151
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.680615
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.684621
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.687941
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.691010
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.695465
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.698475
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.701591
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.705896
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.709015
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.712106
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.716124
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.720375
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.723375
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.727376
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.730377
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.733584
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.737209
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.740607
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.743896
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.747361
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.750839
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.754872
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.757897
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.761217
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.765241
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.768244
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.771245
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.774245
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.778247
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.781869
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.784887
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.788403
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.791469
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.794874
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.798366
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.801454
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.804465
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.808478
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.811884
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.815348
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.818387
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.822916
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.825930
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.829294
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.833315
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.836359
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.839901
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.843171
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.846457
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.849463
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.852633
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.856751
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.860168
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.864425
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.867426
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.870577
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.874715
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.877879
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.881260
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.884624
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.887659
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.891287
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.894571
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.898097
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.901614
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.904743
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.907773
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.910784
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.914815
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.918119
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.922253
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.924255
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.928486
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.931725
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.935271
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.938507
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.941518
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.945669
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.948673
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.951818
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.955237
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.958501
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.961789
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.965177
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.968232
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.971651
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.974663
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.978496
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.981663
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.985019
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.988224
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.991537
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.994560
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:13.998616
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.001124
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.004600
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.007975
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.012042
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.015226
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.018484
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.021712
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.025151
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.028553
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.031841
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.035229
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.038246
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.041273
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.045595
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.048745
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.052095
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.055493
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.058955
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.062446
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.065914
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.068944
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.073221
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.076229
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.079255
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.082462
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.086393
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.089591
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.093436
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.096449
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.099726
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.103631
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.107026
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.111162
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.114329
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.117769
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.120849
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.124653
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.128140
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.131175
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.135478
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.138934
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.141944
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.145986
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.148998
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.152030
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.156085
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.159556
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.162936
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.167078
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.170091
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.173237
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.177265
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.189493
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.194610
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.197814
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.201607
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.205013
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.208025
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.212170
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.215328
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.218871
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.221895
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.225910
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.230943
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.233963
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.237370
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.240392
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.244202
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.247206
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.251205
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.254430
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.257045
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.261478
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.264598
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.267606
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.271619
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.274645
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.277655
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.281681
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.284732
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.288106
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.291526
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.295338
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.299340
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.302176
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.305572
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.308612
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.312758
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.315908
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.318919
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.322081
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.326191
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.329461
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.332831
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.336144
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.339448
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.342494
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.346503
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.349514
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.352625
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.356686
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.359960
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.364025
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.367119
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.370705
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.374018
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.377605
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.380610
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.383688
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.387715
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.390722
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.394739
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.397740
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.400741
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.404814
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.407843
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.410882
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.415331
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.419369
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.422389
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.425623
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.428680
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.432458
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.435485
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.439505
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.442599
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.446869
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.449880
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.453892
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.456900
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.460908
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.464103
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.467111
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.471017
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.474149
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.477942
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.481461
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.484803
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.487859
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.492137
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.495175
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.498207
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.502122
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.505315
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.509330
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.512573
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.516241
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.519830
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.522841
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.526765
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.530777
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.533771
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.537752
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.541908
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.544927
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.548959
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.552127
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.555609
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.558829
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.562289
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.565727
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.569793
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.572833
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.576848
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.579866
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.582908
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.586911
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.589911
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.593932
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.597059
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.600565
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.603568
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.607568
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.610788
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.614530
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.617537
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.620789
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.624469
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.627754
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.631358
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.634364
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.637787
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.641004
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.644238
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.648284
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.651319
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.654381
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.657439
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.661848
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.664861
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.667872
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.671901
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.675256
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.678799
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.682027
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.685092
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.689093
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.692094
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.695095
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.699096
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.701870
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.705873
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.708874
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.712487
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.715658
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.718431
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.722277
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.725576
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.728575
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.732619
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.736155
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.739956
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.742601
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.746502
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.749012
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.753054
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.757072
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.760125
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.763133
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.766165
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.770517
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.773625
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.776900
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.779902
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.784181
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.788189
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.791476
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.794850
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.798286
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.801847
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.805179
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.808367
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.811935
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.815266
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.819353
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.822360
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.825410
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.829097
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.832453
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.835895
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.838905
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.842763
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.845830
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.849961
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.852970
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.856342
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.860345
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.863542
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.866647
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.869657
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.873654
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.877051
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.881052
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.884241
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.888243
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.891244
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.895244
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.899246
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.902749
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.905749
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.908750
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.912751
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.915752
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.918983
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.922246
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.926478
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.929899
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.933248
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.936781
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.940128
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.943344
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.946843
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.950144
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.953649
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.957699
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.961700
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.964913
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.968470
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.972087
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.975193
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.978719
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.982171
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.985174
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.990176
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.994177
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:14.997177
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:15.000680
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:15.003867
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:15.007879
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:15.010959
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:15.013962
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:15.017577
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:15.021594
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:15.024682
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:15.028684
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:15.031685
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:15.034686
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:15.038854
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:15.041915
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:15.045837
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:15.048876
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:15.051940
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:15.055921
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:15.059128
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:15.062195
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:15.066577
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:15.069590
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_one_product (call)
+Start time: 2023-03-29 16:12:15.073590
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:16.288966
+Start name method: authorization
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:16.291079
+Start name method: open_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:17.877084
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:17.881615
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:17.886852
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:17.890354
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:17.896190
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:17.900994
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:17.906273
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:17.909838
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:17.914134
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:17.918583
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:17.921690
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:17.925471
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:17.929983
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:17.934449
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:17.937462
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:17.941749
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:17.945773
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:17.950148
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:17.954135
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:17.958544
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:17.961862
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:17.966532
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:17.969894
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:17.973599
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:17.977972
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:17.981438
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:17.985888
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:17.989100
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:17.993198
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:17.997800
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.002373
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.005945
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.009979
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.014320
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.018818
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.024100
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.028121
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.031530
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.036080
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.040808
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.045622
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.050142
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.054822
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.059123
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.063122
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.067693
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.071708
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.075833
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.080055
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.083069
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.087577
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.091773
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.097543
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.102473
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.106034
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.109885
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.114356
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.118590
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.122156
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.126503
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.130532
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.133749
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.137837
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.141626
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.145655
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.149996
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.153499
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.156885
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.160148
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.165127
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.168579
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.171659
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.174924
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.179575
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.182593
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.186672
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.189731
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.193791
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.196813
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.200829
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.204358
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.208384
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.211404
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.215870
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.219334
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.223353
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.226512
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.230526
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.233651
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.237881
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.241900
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.244912
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.249138
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.252554
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.256016
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.259027
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.263601
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.266643
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.269973
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.272990
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.277473
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.280226
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.284592
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.287602
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.291773
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.294953
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.297964
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.301278
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.303789
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.306971
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.310855
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.314501
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.317513
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.320993
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.324359
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.327825
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.331204
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.335702
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.338966
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.342465
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.345851
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.348863
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.351871
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.356000
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.359007
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.362670
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.365883
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.369321
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.372644
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.376188
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.379201
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.382575
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.386621
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.390033
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.394049
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.397397
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.400409
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.403767
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.407355
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.409978
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.414273
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.417425
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.420510
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.423823
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.426837
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.430959
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.434069
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.437313
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.440683
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.443695
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.447500
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.450908
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.454289
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.457397
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.461648
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.464891
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.467990
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.471017
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.474326
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.477547
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.480602
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.489150
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.495221
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.501223
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.504898
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.508939
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.513223
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.518864
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.522885
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.526125
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.530954
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.535970
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.538970
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.542652
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.547625
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.552784
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.557957
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.563109
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.567580
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.570772
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.574839
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.580869
+Start name method: get_current_url
+
+
+-----
+Test: test_buy_product.py::test_buy_several_products (call)
+Start time: 2023-03-29 16:12:18.583874
+Start name method: get_current_url
+

@@ -1,0 +1,5622 @@
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:42.026063
+Start name method: authorization
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:42.027191
+Start name method: open_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.672121
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.675477
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.677480
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.679987
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.683016
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.686038
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.688195
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.690447
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.693638
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.695765
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.698794
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.700814
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.704459
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.706584
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.709037
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.712278
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.714481
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.716934
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.719438
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.722452
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.724462
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.726929
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.730277
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.732486
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.736009
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.738572
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.741607
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.743646
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.745774
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.748201
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.751420
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.754724
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.756928
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.758934
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.762076
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.765253
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.769150
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.771158
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.774173
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.776195
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.778369
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.781352
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.784792
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.787805
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.789811
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.792337
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.794728
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.797730
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.801793
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.803801
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.806822
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.808846
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.812357
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.814583
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.817765
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.820172
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.823940
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.826140
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.829271
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.832284
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.835317
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.838328
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.840334
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.843363
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.846375
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.849642
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.851659
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.854750
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.857944
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.859953
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.863453
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.865940
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.868956
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.871302
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.874606
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.877621
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.879632
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.882655
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.885665
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.889080
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.891166
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.894178
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.897411
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.900423
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.903267
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.906399
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.909412
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.912420
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.915431
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.917515
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.920960
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.924328
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.926812
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.928819
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.932257
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.935700
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.938713
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.941736
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.944141
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.947316
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.949824
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.952844
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.954849
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.958516
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.960522
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.963533
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.966785
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.969796
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.972821
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.975820
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.978822
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.981423
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.984423
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.987425
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.990425
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.993426
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.996463
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:43.999462
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.002464
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.005585
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.008585
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.010587
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.014086
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.018086
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.021087
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.024089
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.026638
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.030184
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.032800
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.035418
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.039090
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.041097
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.045104
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.048115
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.050625
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.053638
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.056648
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.059983
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.063005
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.065700
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.068517
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.071524
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.074605
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.077575
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.080576
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.083576
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.086267
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.089881
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.092884
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.095885
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.098884
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.101886
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.106230
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.109233
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.112234
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.115233
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.118236
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.121206
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.124206
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.127207
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.131208
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.134371
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.137478
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.140486
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.143487
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.146494
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.150004
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.153036
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.156046
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.160063
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.163074
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.166158
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.170177
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.173184
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.176690
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.179690
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.182691
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.185693
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.189693
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.192693
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.195695
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.199695
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.202696
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.206287
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.209287
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.212290
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.216289
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.219290
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.222292
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.226121
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.230553
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.234405
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.237951
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.240471
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.244907
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.247918
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.251430
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.254440
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.258465
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.262844
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.266361
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.269373
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.272396
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.276443
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.279453
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.282465
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.286486
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.289590
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.292593
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.295594
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.298594
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.303041
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.306451
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.310454
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.313456
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.317462
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.320644
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.323660
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.326962
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.330990
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.333995
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.337997
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.340998
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.344322
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.347225
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.350763
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.356090
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.359208
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.362893
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.366447
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.370842
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.373859
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.377881
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.380884
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.385016
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.388345
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.391364
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.395450
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.398557
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.402858
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.405875
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.409895
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.412920
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.416005
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.419646
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.423664
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.426672
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.430827
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.433835
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.436997
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.440500
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.444919
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.448271
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.451772
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.455784
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.458791
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.462868
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.466868
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.470349
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.473349
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.477799
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.481492
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.484494
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.487948
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.491138
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.494573
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.497594
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.501968
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.504983
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.508487
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.511511
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.514972
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.518579
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.523131
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.527177
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.530197
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.533258
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.537268
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.540269
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.543652
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.547754
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.550765
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.554336
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.557671
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.562216
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.565223
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.568657
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.571664
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.575681
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.578690
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.582156
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.586368
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.589467
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.594046
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.597132
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.603060
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.606093
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.610231
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.613457
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.618235
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.622247
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.625552
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.629565
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.632743
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.635751
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.639759
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.643101
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.646321
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.650759
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.653825
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.658339
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.661508
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.665646
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.669660
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.672667
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.676013
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.680153
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.683164
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.687175
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.690192
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.693774
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.697508
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.701156
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.704164
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.707577
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.711699
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.714757
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.718769
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.721788
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.725247
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.728757
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.731908
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.734944
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.738505
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.742129
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.745229
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.748377
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.751973
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.756190
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.759194
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.763204
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.766253
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.769267
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.773519
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.777532
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.780580
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.783595
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.787718
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.790951
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.794374
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.798395
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.801498
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.805056
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.809229
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.812245
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.815652
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.819234
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.822953
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.826429
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.829949
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.834243
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.837430
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.841568
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.844615
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.847849
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.851372
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.854628
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.857647
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.861147
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.864719
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.868187
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.872348
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.875488
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.879545
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.882792
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.886816
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.889824
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.893309
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.897614
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.900632
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.903852
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.907930
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.911239
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.914854
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.917872
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.921688
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.924756
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.929156
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.932173
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.935785
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.940051
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.943054
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.947073
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.950582
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.953589
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.957159
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.960505
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.963514
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.967001
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.971018
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.974229
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.977532
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.981009
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.985019
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.988028
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.992443
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:44.996834
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.000001
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.003071
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.007355
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.010362
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.013503
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.017087
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.021096
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.024965
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.028228
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.032240
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.035401
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.039475
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.042196
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.046222
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.050363
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.055366
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.058646
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.062656
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.065914
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.070357
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.074561
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.077830
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.081926
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.086458
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.089700
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.093738
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.096893
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.100183
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.104695
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.107822
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.111104
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.115392
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.118676
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.123074
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.126093
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.130458
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.133721
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.137103
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.141325
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.144592
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.148735
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.153801
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.157087
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.163780
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.169593
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.173311
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.176480
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.179983
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.183575
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.190036
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.194355
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.198665
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.202010
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.206564
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.211658
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.215942
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.220346
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.224732
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.228884
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.232370
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.235661
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.239950
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.243441
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.246990
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.251166
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.255413
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.259103
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.263123
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.267124
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.270274
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.273428
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.277984
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.281110
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.284656
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.288168
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.291371
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.295394
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.299396
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.303118
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.307121
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.310766
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.314905
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.317914
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.321980
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.324997
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.328096
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.332200
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.335301
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.338675
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.342615
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.346351
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.350014
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.353463
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.356578
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.361249
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.364778
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.368349
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.372352
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.376353
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.380354
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.383354
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.387355
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.391489
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.394904
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.398701
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.401758
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.406065
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.408709
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.412362
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.415758
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.419508
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.423268
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.426636
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.430378
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.433387
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.438088
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.441407
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.444883
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.447964
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.452158
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.455393
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.458905
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.462388
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.465610
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.469757
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.474098
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.477363
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.481642
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.485213
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.488597
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.492601
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.496089
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.500351
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.503471
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.507168
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.510496
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.514497
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.517497
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.521498
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.524683
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.528565
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.532375
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.535952
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.539230
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.543496
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.546772
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.550386
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.553433
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.557620
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.560853
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.564979
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.568164
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.572355
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.575507
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.579553
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.582623
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.586072
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.589465
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.593824
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.596829
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.599977
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.604432
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.609779
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.612780
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.616781
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.620244
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.625513
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.628682
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.632287
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.635930
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.639309
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.643128
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.646517
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.650055
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.653287
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.657270
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.660708
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.664393
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.668669
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.672730
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.676103
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.679493
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.683523
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.687067
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.690079
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.693518
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.697542
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.700784
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.704343
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.707811
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.711194
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.714384
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.717703
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.721556
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.724980
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.728236
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.731863
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.735341
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.738890
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.742326
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.745741
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.750262
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.753297
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.757280
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.760563
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.763983
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.767551
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.771089
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.774567
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.778860
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.782087
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.785747
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.789946
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.793074
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.796556
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.800277
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.803704
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.807173
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.811412
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.815952
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.818934
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.823123
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.826611
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.830899
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.833979
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.837090
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.841309
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.844321
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.848689
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.852241
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.856491
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.859499
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.862698
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.867123
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.871369
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.875340
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.878497
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.881632
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.886196
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.889645
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.893222
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.896692
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.900157
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.904800
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.908208
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.911215
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.914730
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.919408
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.923733
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.926736
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.931291
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.934315
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.939159
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.943144
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.946449
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.951124
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.954590
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.957995
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.962449
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.965981
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.969734
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.974135
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.977388
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.983271
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.986666
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.990077
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:45.994681
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.000135
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.003338
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.007384
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.011843
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.015275
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.018684
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.022023
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.025666
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.030161
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.033283
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.036948
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.041439
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.044830
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.048328
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.052360
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.055735
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.059423
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.063588
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.066680
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.070356
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.073918
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.078116
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.082117
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.086118
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.090119
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.093119
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.097120
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.101121
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.105122
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.108123
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.112124
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.115124
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.119125
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.123126
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.127127
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.131128
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.135129
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.139131
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.143131
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.146132
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.150635
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.154637
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.158638
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.162639
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.166640
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.170641
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.174642
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.178643
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.181643
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.186099
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.189810
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.192979
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.196426
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.200567
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.204070
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.207431
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.210875
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.217416
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.220893
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.224131
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.227962
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.231452
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.234905
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.239506
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.242514
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.247499
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.251416
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.254459
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.259335
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.264010
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.267198
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.271215
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.275688
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.280094
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.283167
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.286426
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.290436
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.294592
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.298757
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.302368
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.306467
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.310624
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.314928
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.319142
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.322241
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.326390
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.329995
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.334496
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.338027
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.343112
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.346259
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.349886
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.354834
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.359152
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.363170
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.367191
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.372528
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.376033
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.380371
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.384231
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.387361
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.391407
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.395024
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.399327
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.403882
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.407756
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.412047
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.415378
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.419772
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.423231
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.427336
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.431339
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.435612
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.439697
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.443197
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.447138
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.451256
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.455576
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.459695
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.462766
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.468453
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.471956
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.475431
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.480140
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.483443
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.487957
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.491005
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.495346
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.500341
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.503455
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.507481
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.510500
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.515896
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.519907
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.522975
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.526668
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.531184
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.534411
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.538464
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.541650
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.546066
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.550062
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.554709
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.557742
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.562258
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.566258
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.570259
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.574300
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.577395
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.580924
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.584643
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.588949
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.592886
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.596029
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.600044
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.603390
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.607418
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.611538
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.614595
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.619197
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.622301
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.627029
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.630046
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.634311
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.638738
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.641758
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.645961
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.650028
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.653442
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.657482
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.660761
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.664261
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.667795
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.671900
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.675406
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.678543
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.683236
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.687253
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.690262
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.694387
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.697678
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.701927
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.705206
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.708212
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.711594
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.715680
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.719694
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.723186
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.726638
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.730078
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.733634
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.736932
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.740563
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.744389
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.749006
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.752515
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.755636
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.760000
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.763000
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.767001
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.771002
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.774003
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.779004
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.782282
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.786612
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.790204
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.794476
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.797808
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.801233
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.804732
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.808811
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.812344
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.815504
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.819761
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.822845
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.827639
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.831863
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.835146
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.839412
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.842801
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.847514
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.850104
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.854603
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.858754
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.861919
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.867245
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.871557
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.874919
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.879112
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.883557
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.887327
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.891753
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.895207
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.899452
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.903934
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.907336
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.911536
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.915010
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.919190
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.922198
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.926855
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.929960
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.934615
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.938159
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.942175
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.946755
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.950264
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.954341
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.957677
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.961244
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.967151
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.970603
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.974614
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.978841
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.982846
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.986893
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.990309
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.996110
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:46.999953
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:47.003954
+Start name method: get_current_url
+
+
+-----
+Test: tests/test_menu_links.py::test_link_items (call)
+Start time: 2023-03-29 16:08:47.007343
+Start name method: get_current_url
+

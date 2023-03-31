@@ -1,0 +1,53 @@
+Start test
+Start test
+Current URL: https://www.saucedemo.com/
+Input login: standard_user
+Input password: secret_sauce
+Click login button
+Current page title: 'Products'
+Text result: 'Products' --- PASSED
+Current URL: https://www.saucedemo.com/inventory.html
+Add product N1 to the cart - clicked
+Add product N2 to the cart - clicked
+Element exists - TRUE
+Text result: '2' --- PASSED
+Current URL: https://www.saucedemo.com/inventory.html
+Current URL: https://www.saucedemo.com/cart.html
+Checkout button clicked
+Current page title: 'Checkout: Your Information'
+Text result: 'Checkout: Your Information' --- PASSED
+Current URL: https://www.saucedemo.com/checkout-step-one.html
+Current URL: https://www.saucedemo.com/checkout-step-one.html
+Input first name: Ilona
+Input last name: Borsuk
+Input postal code: 220047
+Continue checkout button clicked
+Current page title: 'Checkout: Overview'
+Text result: 'Checkout: Overview' --- PASSED
+Current URL: https://www.saucedemo.com/checkout-step-two.html
+Total sum is $39.98
+Cart sum is 39.98
+Product N1 = $29.99
+Product N2 = $9.99
+Current URL: https://www.saucedemo.com/checkout-step-two.html
+Cart sum is 39.98
+Product N1 = $29.99
+Product N2 = $9.99
+Current URL: https://www.saucedemo.com/checkout-step-two.html
+---39.98 == 39.98---
+---Price Cart == Total sum PASSED---
+Current URL: https://www.saucedemo.com/checkout-step-two.html
+Current URL: https://www.saucedemo.com/checkout-step-two.html
+Finish button clicked
+Current page title: 'Checkout: Complete!'
+Text result: 'Checkout: Complete!' --- PASSED
+Current URL: https://www.saucedemo.com/checkout-complete.html
+Current URL: https://www.saucedemo.com/checkout-complete.html
+Current URL result: 'https://www.saucedemo.com/checkout-complete.html' --- PASSED
+Current page title: 'Checkout: Complete!'
+Text result: 'Checkout: Complete!' --- PASSED
+---Screenshot made---
+Current URL: https://www.saucedemo.com/checkout-complete.html
+Finish test
+Finish test
+Exit system

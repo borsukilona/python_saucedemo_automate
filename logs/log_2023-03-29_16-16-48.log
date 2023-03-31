@@ -1,0 +1,44 @@
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:16:50.063948
+Start name method: authorization
+
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:16:50.064952
+Start name method: open_url
+
+End time: 2023-03-29 16:16:51.872673
+End name method: open_url
+URL: https://www.saucedemo.com/
+
+-----
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:16:52.054260
+Start name method: get_page_title
+
+End time: 2023-03-29 16:16:52.081369
+End name method: get_page_title
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+
+-----
+Test: test_auth.py::test_auth (call)
+Start time: 2023-03-29 16:16:52.081369
+Start name method: assert_text
+
+End time: 2023-03-29 16:16:52.096226
+End name method: assert_text
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+End time: 2023-03-29 16:16:52.099470
+End name method: authorization
+URL: https://www.saucedemo.com/inventory.html
+
+-----

@@ -1,0 +1,17 @@
+
+-----
+Test: tests/test_menu_links.py::test_link_reset (call)
+Start time: 2023-03-29 19:08:41.567541
+Start name method: authorization
+
+
+-----
+Test: tests/test_menu_links.py::test_link_reset (call)
+Start time: 2023-03-29 19:08:41.569854
+Start name method: open_url
+
+End time: 2023-03-29 19:08:50.699042
+End name method: open_url
+URL: https://www.saucedemo.com/
+
+-----
